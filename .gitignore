@@ -1,0 +1,80 @@
+# Visual Studio build outputs
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options files
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+
+# Visual Studio IntelliSense
+ipch/
+*.ipch
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db-shm
+*.VC.db-wal
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.obj
+*.pch
+*.idb
+*.tlog
+*.log
+*.lastbuildstate
+*.Build.CppClean.log
+*.exe.recipe
+*.vcxproj.FileListAbsolute.txt
+*.obj.enc
+
+# Documentation files (exclude all .md except README.md)
+PROJECT_DOCUMENTATION.md
+QUICK_TEST_CHECKLIST.md
+TESTING_GUIDE.md
+TODOlist.txt
+
+# Backup/temporary .txt files (UI.cpp.txt, UI.h.txt are backups)
+UI.cpp.txt
+UI.h.txt
+
+# Test files (if you want to exclude test images/data)
+# Uncomment if you don't want to commit test files
+# *.png
+# *.jpg
+# *.bin
+
+# Keep these important files:
+# *.vcxproj
+# *.sln (needed to open project in Visual Studio)
+# *.vcxproj.filters
+# *.cpp
+# *.h
+# README.md
+
